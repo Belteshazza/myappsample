@@ -1,0 +1,23 @@
+@import url('../vendors/animate/animate.css');
+@import url('https://fonts.googleapis.com/css?family=Product+Sans:100,200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+    font-size: 14px;
+}
+
+body, p, h1, h2, h3, h4, h5, h6 {
+    color: #222;
+}
+
+body, p, a, h1, h2, h3, h4, h5, h6 {
+    font-family: "Product Sans", "Helvetica Neue", "Arial", sans-serif;
+}
+
+body{
+    background:url(../img/background.jpg);
+    font-family:'PT Sans',Helvetica, Arial, sans-serif;
+    color:rgb(12, 12, 12);
+       background-repeat: no-repeat;
+       background-size:cover;
+       background-color: rgba(0, 0, 0, 0.616);
+}
